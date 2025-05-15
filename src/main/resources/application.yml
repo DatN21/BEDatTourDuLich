@@ -23,7 +23,7 @@ api:
   prefix: api/v1
 
 app:
-  upload-dir: C:/Users/Dell/IdeaProjects/touDuLich/uploads
+ upload-dir: D:/BE_DAT_TOUR_TOT_NGHIEP/uploads
 
 
 
